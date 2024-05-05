@@ -33,6 +33,7 @@
 		D03C696E2BE39D1700482A37 /* CheckCompleteBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C696D2BE39D1700482A37 /* CheckCompleteBinaryTree.swift */; };
 		D03C69702BE39D2100482A37 /* Word_Serach_LC79.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C696F2BE39D2100482A37 /* Word_Serach_LC79.swift */; };
 		D03C69722BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C69712BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift */; };
+		D03C69752BE7897800482A37 /* minMeetingRooms_LC253.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C69742BE7897800482A37 /* minMeetingRooms_LC253.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -75,6 +76,7 @@
 		D03C696D2BE39D1700482A37 /* CheckCompleteBinaryTree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckCompleteBinaryTree.swift; sourceTree = "<group>"; };
 		D03C696F2BE39D2100482A37 /* Word_Serach_LC79.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Word_Serach_LC79.swift; sourceTree = "<group>"; };
 		D03C69712BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Buildings_With_an_Ocean_View_LC1762.swift"; sourceTree = "<group>"; };
+		D03C69742BE7897800482A37 /* minMeetingRooms_LC253.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minMeetingRooms_LC253.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 		D03C69292BE397C500482A37 /* Array */ = {
 			isa = PBXGroup;
 			children = (
+				D03C69732BE7896300482A37 /* Greedy */,
 				D03C692A2BE397F800482A37 /* ContiguousArray.swift */,
 				D03C69322BE398F600482A37 /* CountAndSay_38.swift */,
 				D03C692E2BE398F600482A37 /* LongestCommonPrefix.swift */,
@@ -242,6 +245,14 @@
 			path = Stack/Heap;
 			sourceTree = "<group>";
 		};
+		D03C69732BE7896300482A37 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				D03C69742BE7897800482A37 /* minMeetingRooms_LC253.swift */,
+			);
+			path = Greedy;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -300,6 +311,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D03C69752BE7897800482A37 /* minMeetingRooms_LC253.swift in Sources */,
 				D03C694E2BE39AF900482A37 /* GroupShiftedString_LC249.swift in Sources */,
 				D03C69702BE39D2100482A37 /* Word_Serach_LC79.swift in Sources */,
 				D03C694D2BE39AF900482A37 /* LRUCache.swift in Sources */,
