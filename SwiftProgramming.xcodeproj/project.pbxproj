@@ -32,6 +32,7 @@
 		D03C696C2BE39D0D00482A37 /* kthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C696B2BE39D0C00482A37 /* kthMissingNumber.swift */; };
 		D03C696E2BE39D1700482A37 /* CheckCompleteBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C696D2BE39D1700482A37 /* CheckCompleteBinaryTree.swift */; };
 		D03C69702BE39D2100482A37 /* Word_Serach_LC79.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C696F2BE39D2100482A37 /* Word_Serach_LC79.swift */; };
+		D03C69722BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03C69712BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +74,7 @@
 		D03C696B2BE39D0C00482A37 /* kthMissingNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kthMissingNumber.swift; sourceTree = "<group>"; };
 		D03C696D2BE39D1700482A37 /* CheckCompleteBinaryTree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckCompleteBinaryTree.swift; sourceTree = "<group>"; };
 		D03C696F2BE39D2100482A37 /* Word_Serach_LC79.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Word_Serach_LC79.swift; sourceTree = "<group>"; };
+		D03C69712BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Buildings_With_an_Ocean_View_LC1762.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				D03C69312BE398F600482A37 /* TODO_Files.swift */,
 				D03C69302BE398F600482A37 /* Toeplitz_Matrix.swift */,
 				D03C692D2BE398F500482A37 /* WordBreak.swift */,
+				D03C69712BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				D03C692B2BE397F800482A37 /* ContiguousArray.swift in Sources */,
 				D03C694F2BE39AF900482A37 /* LongestArithmeticSubsequenceLC1218.swift in Sources */,
 				D03C69682BE39CF700482A37 /* UniquePath-2.swift in Sources */,
+				D03C69722BE740B200482A37 /*  Buildings_With_an_Ocean_View_LC1762.swift in Sources */,
 				D03C69392BE398F600482A37 /* TODO_Files.swift in Sources */,
 				D03C69622BE39CEB00482A37 /* CloneGraph_LC133.swift in Sources */,
 				D03C693B2BE398F600482A37 /* NextPermutation_LC31.swift in Sources */,
